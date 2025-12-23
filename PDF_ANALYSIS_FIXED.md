@@ -61,7 +61,7 @@ All endpoints require authentication header: `Authorization: Token <your_token>`
 
 **Environment Variables** (in `lms_backend/.env`):
 ```
-AI_API_KEY=AIzaSyBKvmhCscOzP7_MhwSLChVqlfqu-Ihu7hw
+AI_API_KEY=REDACTED_API_KEY
 DEBUG=True
 ```
 

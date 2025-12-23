@@ -49,9 +49,9 @@ pip install -r requirements.txt
 Check that `.env` file exists and contains:
 ```
 SECRET_KEY=django-insecure-your-secret-key-here-change-in-production
-GEMINI_API_KEY=AIzaSyBKvmhCscOzP7_MhwSLChVqlfqu-Ihu7hw
+GEMINI_API_KEY=REDACTED_API_KEY
 DEBUG=True
-AI_API_KEY=AIzaSyBKvmhCscOzP7_MhwSLChVqlfqu-Ihu7hw
+AI_API_KEY=REDACTED_API_KEY
 ```
 
 ### Step 5: Run Database Migrations

@@ -22,7 +22,7 @@ python manage.py migrate
 ### 2. Verify Environment Variables
 Check that your `.env` file contains:
 ```
-AI_API_KEY=AIzaSyBKvmhCscOzP7_MhwSLChVqlfqu-Ihu7hw
+AI_API_KEY=REDACTED_API_KEY
 ```
 
 ### 3. Start the Django Server
