@@ -1,0 +1,22 @@
+Sample PDF Content for Testing
+
+This is a test document for the PDF to Audio conversion feature.
+
+Chapter 1: Introduction
+This document demonstrates how the LMS system can convert PDF files into audio format using text-to-speech technology.
+
+Chapter 2: Features
+- Upload PDF files
+- Extract text content
+- Convert text to speech
+- Download audio files
+- Track conversion status
+
+Chapter 3: Benefits
+Students can listen to documents while:
+- Commuting
+- Exercising
+- Studying in different environments
+- Having accessibility needs
+
+This completes our test document.

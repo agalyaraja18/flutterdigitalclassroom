@@ -1,0 +1,22 @@
+# Normalize line endings
+* text=auto
+
+# Force LF for common source files
+*.py text eol=lf
+*.dart text eol=lf
+*.kt text eol=lf
+*.kts text eol=lf
+*.sh text eol=lf
+
+# Binary files
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.pdf binary
+*.zip binary
+*.jar binary
+
+# Ensure git handles CRLF warnings on Windows consistently
+# Core setting suggestion: git config --global core.autocrlf true
